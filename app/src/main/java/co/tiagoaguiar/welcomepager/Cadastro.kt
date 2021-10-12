@@ -24,8 +24,10 @@ class Cadastro : AppCompatActivity() {
 
     }
 
-    fun proximaTela(view: View?) {
-        val intent = Intent(this, Cadastro::class.java)
+
+
+    fun proximaTela(view: View) {
+        val intent = Intent(this, MenuPrincipal::class.java)
         startActivity(intent)
     }
 
