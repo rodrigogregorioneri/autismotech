@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">WelcomePager</string>
     <string name="dotted">&#8226;</string>
+    <string name="texto_teste">Como sua criança se relaciona com os familiares e coleguinhas? Para pessoas com autismo os significados dos laços sociais podem ser um tanto confusos. Por exemplo:
+<br></br>
+
+            <item>- Em bebês é comum um maior interesse por objetos do que por pessoas, além de uma certa apatia;</item><br></br>
+    <item>- Seu filho vai no colo de todo mundo? A criança autista pode tanto ficar exclusivamente com os cuidadores, quanto não diferenciar um colo de outro;</item><br></br>
+    <item>- Não há reciprocidade de sorrisos, toques, abraços, etc.</item><br></br>
+    <item>- A criança não dá muita bola para a presença de outras;</item><br></br>
+
+<item>A criança não demonstra reações a novidades, por isso, crianças com autismo parecem desatentas.</item><br></br><br></br>
+
+
+
+
+
+
+
+</string>
 </resources>

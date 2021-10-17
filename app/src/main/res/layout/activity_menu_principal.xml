@@ -48,16 +48,18 @@
             android:orientation="horizontal">
 
             <ImageButton
-                android:id="@+id/imageButton4"
+                android:id="@+id/imageButtons4"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
+                android:onClick="ongs"
                 app:srcCompat="@drawable/ong" />
 
             <ImageButton
-                android:id="@+id/imageButton5"
+                android:id="@+id/imageButtons5"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="30dp"
+                android:onClick="sinais"
                 app:srcCompat="@drawable/sinais" />
         </LinearLayout>
 

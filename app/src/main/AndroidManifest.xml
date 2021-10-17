@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MenuPrincipal"></activity>
+        <activity android:name=".VisiteUmMedico"></activity>
+        <activity android:name=".Ongs" />
+        <activity android:name=".Sinais" />
+        <activity android:name=".SinaisQuatro" />
+        <activity android:name=".SinaisTres" />
+        <activity android:name=".SinaisDois" />
+        <activity android:name=".SinaisUm" />
+        <activity android:name=".MenuPrincipal" />
         <activity android:name=".Cadastro" />
         <activity android:name=".Entrar" />
         <activity android:name=".MainActivity">
